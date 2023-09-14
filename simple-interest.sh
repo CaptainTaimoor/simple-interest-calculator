@@ -2,6 +2,9 @@
 
 # Simple Interest Calculator
 
+# Additional Authors:
+- CaptainTaimoor
+
 # Input principal amount
 echo -n "Enter the principal amount: "
 read principal
@@ -21,5 +24,3 @@ interest=$((principal * rate * time / 100))
 echo "Simple Interest: $interest"
 
 
-# Additional Authors:
-- CaptainTaimoor
