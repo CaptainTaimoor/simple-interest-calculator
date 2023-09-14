@@ -6,9 +6,9 @@ This repository contains a simple interest calculator script written in Bash.
 
 - [Description](#description)
 - [How to Use](#how-to-use)
-- [License](LICENSE.md)
-- [Contributing](CONTRIBUTING.md)
-- [Code of Conduct](CONDUCT.md)
+- [License](https://github.com/CaptainTaimoor/simple-interest-calculator/blob/main/LICENSE.md)
+- [Contributing](https://github.com/CaptainTaimoor/simple-interest-calculator/blob/main/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/CaptainTaimoor/simple-interest-calculator/blob/main/CONDUCT.md)
 
 ## Description
 
