@@ -6,9 +6,9 @@ This repository contains a simple interest calculator script written in Bash.
 
 - [Description](#description)
 - [How to Use](#how-to-use)
-- [License](#license)
-- [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
+- [License](LICENSE.md)
+- [Contributing](CONTRIBUTING.md)
+- [Code of Conduct](CONDUCT.md)
 
 ## Description
 
