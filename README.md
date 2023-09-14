@@ -1,7 +1,3 @@
-# simple-interest-calculator
-Repository for IBM Getting Started with Git and GitHub week 3 final project
-
-
 # Simple Interest Calculator
 
 This repository contains a simple interest calculator script written in Bash.
